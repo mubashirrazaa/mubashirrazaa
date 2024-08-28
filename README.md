@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mubashir razaa
+- 👋 Hi, I’m mubashir razaa.
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning Databases,SQL,Python.
 - ⚡I enjoy:Reading,Learning,Walking,Football.
