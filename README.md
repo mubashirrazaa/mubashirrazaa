@@ -1,6 +1,4 @@
 Hello! I'm Mubashir Raza 👋
-
-About Me
 I’m a data analyst with a keen interest in SQL, Python, and Power BI. I’m passionate about analyzing data to extract valuable insights and drive decision-making. I’m currently working on various data-driven projects and exploring new technologies in data science
 Skills
 SQL: Proficient in querying, database management, and data manipulation.
